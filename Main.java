@@ -10,6 +10,9 @@ class Main {
     int[] nums = {1,2,2,3};
     Duplicate depressing = new Duplicate();
     depressing.containsDuplicate(nums);
+
+    Triples saddening = new Triples();
+    saddening.findSingle(nums);
   
 
   
