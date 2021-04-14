@@ -1,4 +1,4 @@
-package duplicate;
+package arrays;
 import java.util.*;
 
 public class Duplicate{
